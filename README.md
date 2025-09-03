@@ -3,7 +3,7 @@
 Sou estudante do **Curso Técnico em Informática** no **SENAC Tatuapé**, atualmente em desenvolvimento de habilidades nas áreas de hardware, software e programação.  
 Possuo formação complementar em **Python para Data Science** pelo **SENAI**, que me proporcionou conhecimentos em análise de dados e programação aplicada.  
 
-Tenho interesse nas áreas de **jogos digitais, programação, matemática e física**, buscando constantemente aprimorar meu raciocínio lógico e minhas competências técnicas.  
+Tenho interesse em **jogos digitais, programação, matemática e física**, buscando constantemente aprimorar meu raciocínio lógico e minhas competências técnicas.  
 
 Minha principal linguagem de programação é o **Python**, que utilizo tanto para estudos quanto para desenvolvimento de projetos práticos.  
 

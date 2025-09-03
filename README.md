@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sobre mim 👨‍💻
 
-<!--
-**danielbr20998/danielbr20998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do **Curso Técnico em Informática** no **SENAC Tatuapé**, atualmente em desenvolvimento de habilidades nas áreas de hardware, software e programação.  
+Possuo formação complementar em **Python para Data Science** pelo **SENAI**, que me proporcionou conhecimentos em análise de dados e programação aplicada.  
 
-Here are some ideas to get you started:
+Tenho interesse nas áreas de **jogos digitais, programação, matemática e física**, buscando constantemente aprimorar meu raciocínio lógico e minhas competências técnicas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha principal linguagem de programação é o **Python**, que utilizo tanto para estudos quanto para desenvolvimento de projetos práticos.  
+
+---
+
+## 🌐 Redes
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9196420)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dantasdan)  

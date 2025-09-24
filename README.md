@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/698e0f18-d04a-4239-8605-bd62d3531b11)
+
 # Sobre mim 👨‍💻
 
 Sou estudante do **Curso Técnico em Informática** no **SENAC Tatuapé**, atualmente em desenvolvimento de habilidades nas áreas de **hardware ⚙️, software 💻 e programação 👨‍💻**.  
